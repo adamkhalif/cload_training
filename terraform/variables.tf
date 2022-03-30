@@ -19,5 +19,5 @@ variable "location" {
 variable "name" {
   description = "The name to use for the different parts of the deployment"
   type        = string
-  default     = "webapp3"
+  default     = "webapp4"
 }
